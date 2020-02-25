@@ -1,0 +1,5 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Unit 1 (Problem Solving)\CircumferenceAdam\CircumferenceAdam\obj\Debug\CircumferenceAdam.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Unit 1 (Problem Solving)\CircumferenceAdam\CircumferenceAdam\obj\Debug\CircumferenceAdam.Circumference.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Unit 1 (Problem Solving)\CircumferenceAdam\CircumferenceAdam\obj\Debug\CircumferenceAdam.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Unit 1 (Problem Solving)\CircumferenceAdam\CircumferenceAdam\obj\Debug\CircumferenceAdam.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\MAdam (s430297)\Unit 1 (Problem Solving)\CircumferenceAdam\CircumferenceAdam\obj\Debug\CircumferenceAdam.csproj.CoreCompileInputs.cache
